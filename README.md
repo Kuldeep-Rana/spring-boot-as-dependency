@@ -25,7 +25,7 @@ If you still want to use it as dependency do the following:
 	</execution>
 </executions>
 
-# I have create following sample project
+# I have create following sample projects
 1. interceptor
 2. Service1 
 3. Service2
