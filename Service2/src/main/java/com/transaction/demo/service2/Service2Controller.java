@@ -1,4 +1,4 @@
-package com.transaction.demo.Service2;
+package com.transaction.demo.service2;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.transaction.demo.Servce1;
+package com.transaction.demo.service1;
 
 import com.transaction.demo.interceptor.TransactionDTO;
 import com.transaction.demo.interceptor.TransactionLocal;

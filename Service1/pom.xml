@@ -44,7 +44,7 @@
 				<version>${spring.boot.version}</version>
 				<configuration>
 					<attach>false</attach>
-					<mainClass>com.transaction.demo.Servce1.Service1Application</mainClass>
+					<mainClass>com.transaction.demo.service1.Service1Application</mainClass>
 				</configuration>
 				<executions>
 					<execution>

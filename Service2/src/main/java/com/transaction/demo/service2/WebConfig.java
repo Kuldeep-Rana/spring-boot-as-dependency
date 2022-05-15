@@ -1,4 +1,4 @@
-package com.transaction.demo.Service2;
+package com.transaction.demo.service2;
 
 import com.transaction.demo.interceptor.TransactionInterceptor;
 import org.springframework.context.annotation.Configuration;
