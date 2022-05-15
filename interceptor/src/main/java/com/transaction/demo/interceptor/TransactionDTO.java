@@ -25,4 +25,12 @@ public class TransactionDTO {
     public void setConnection(Object connection) {
         this.connection = connection;
     }
+
+    @Override
+    public String toString() {
+        return "TransactionDTO{" +
+                "transactionId='" + transactionId + '\'' +
+                ", connection=" + connection +
+                '}';
+    }
 }
